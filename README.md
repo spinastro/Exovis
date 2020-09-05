@@ -6,3 +6,5 @@ Using Lomb-Scargle periodogram and Monte Carlo simulations, **Exovis** calculate
 - Pysical properties of the hosting star;
 - Expected precision in radial velocity;
 - Number and cadence of observations.
+
+Open [examples.ipynb](https://github.com/spinastro/Exovis/blob/master/examples.ipynb) to learn how to use **Exovis**.
